@@ -36,10 +36,10 @@ permalink: /about/
 
 ## 🏆 竞赛与成果
 
-- 🥇 中国研究生网络安全创新大赛 **全国一等奖** :contentReference[oaicite:0]{index=0}  
-- 🥈 全国大学生计算机设计大赛 **全国二等奖** :contentReference[oaicite:1]{index=1}  
+- 🥇 中国研究生网络安全创新大赛 **全国一等奖** 
+- 🥈 全国大学生计算机设计大赛 **全国二等奖** 
 - 📄 EI论文（第一作者，已录用）  
-- 🧾 发明专利2项（第一作者，1项已公开进入实审） :contentReference[oaicite:2]{index=2}  
+- 🧾 发明专利2项（第一作者，1项已公开进入实审） 
 
 ---
 
