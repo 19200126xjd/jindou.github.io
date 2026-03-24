@@ -1,0 +1,9 @@
+---
+layout: page
+title: 简历
+permalink: /resume/
+---
+
+## 📄 我的简历
+
+👉 [点击下载PDF简历](/assets/resume.pdf)
