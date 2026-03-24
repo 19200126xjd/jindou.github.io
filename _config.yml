@@ -32,7 +32,7 @@ exclude:
 twitter:
   username: ngzhio
   card: summary
-logo: logo.png
+logo: /assets/4k.jpg
 social:
   name: Shangzhi Huang
   links:
