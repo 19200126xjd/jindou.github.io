@@ -1,5 +1,5 @@
 - title: 关于我
-  url: /about/
+  url: /
 
 - title: 项目
   url: /projects/
@@ -7,9 +7,8 @@
 - title: 成果
   url: /publications/
 
-- title: 更多
-  sublinks:
-    - title: 简历
-      url: /resume/
-    - title: 联系方式
-      url: /contact/
+- title: 简历
+  url: /resume/
+
+- title: 联系方式
+  url: /contact/
