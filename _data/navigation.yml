@@ -1,14 +1,21 @@
-- title: About
+- title: 首页
+  url: /
+
+- title: 项目
+  url: /projects/
+
+- title: 成果
+  url: /publications/
+
+- title: 技术栈
+  url: /skills/
+
+- title: 关于我
   url: /about/
-- title: Years
-  url: /years/
-- title: Categories
-  url: /categories/
-- title: Tags
-  url: /tags/
-- title: More
+
+- title: 更多
   sublinks:
-    - title: FAQ
-      url: /faq/
-    - title: Docs
-      url: /docs/
+    - title: 简历
+      url: /resume/
+    - title: 联系方式
+      url: /contact/
